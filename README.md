@@ -89,4 +89,5 @@ TP de Conception d'une application et Architecure avec UML
 
 ---
 
-**🔗 Repository GitHub :** https://github.com/RouaultBaptiste/uml-projet
+**🔗 Repository GitHub :** https://github.com/RouaultBaptiste/uml-projet-digicheese
+
